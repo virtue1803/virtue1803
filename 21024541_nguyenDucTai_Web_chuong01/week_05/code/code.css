@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    margin-top: 22px;
+    margin-left: 24px;
+    align-self: center;
+    justify-content: space-between; 
+    height: 70px;
+    width: 180px;
+
+}
+.logoMenu{
+    display: flex  ;
+}
+
+.menu {
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+.menuHome{
+    border-bottom: 5px solid #00bdd6;
+    line-height: 22px;
+    
+}
+.menu a{
+    text-decoration: none;
+}
+.seachArea {
+    display: flex;
+    width: 400px;
+    height: 30px;
+}
+.seachArea div{
+    display: flex;
+}
