@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="mayTinh.css">
+<html>
+<head>
+  <title>Máy tính bỏ túi</title>
+</head>
+<body>
+    <input type="text" id="ketQua" value="0">
+    <div class="mayTinh">
+        <button onclick="addToResult(1)">1</button>
+        <button onclick="addToResult(2)">2</button>
+        <button onclick="addToResult(3)">3</button>
+        <button onclick="addToResult(4)">4</button>
+      
+        <button onclick="addToResult(5)">5</button>
+        <button onclick="addToResult(6)">6</button>
+        <button onclick="addToResult(7)">7</button>
+        <button onclick="addToResult(8)">8</button>
+      
+        <button onclick="addToResult(9)">9</button>
+        <button onclick="addToResult(0)">0</button>
+        <button onclick="add('+')">+</button>
+        <button onclick="apartFrom('-')">-</button>
+
+        <button onclick="core('x')">x</button>
+        <button onclick="divide('/')">/</button>
+        <button onclick="calculate()">=</button>
+    </div>
+ 
+  
+  
+
+  <script type="text/javascript">
+    var result = document.getElementById("ketQua");
+    var soHienTai = "";
+    var phepTinhHienTai ="";
+    var soDau = "";
+
+    function addToResult(number) {
+      soHienTai += number;
+      result.value = soHienTai;
+    }
+
+    function addToOperator(operator){
+        soDau = soHienTai;
+        soHienTai = "";
+        phepTinhHienTai = operator;
+    }
+
+    function calculate() {
+      if(phepTinhHienTai == "+"){
+        result.value = parseInt(soDau) + parseInt(soHienTai);
+      } else if(phepTinhHienTai == "-"){
+        result.value = parseInt(soDau) - parseInt(soHienTai);
+      }else if(phepTinhHienTai == "*"){
+        result.value = parseFloat(soDau) * parseFloat(soHienTai);
+      }else if(phepTinhHienTai == "/" ){
+        if(soHienTai<0){
+            result.textContent("lỗi");
+        }else{
+            result.value=parseFloat(soDau) /parseFloat(soHienTai);
+        }
+      }
+    }
+  </script>
+</body>
+</html>

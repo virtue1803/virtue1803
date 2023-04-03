@@ -1,0 +1,6 @@
+.mayTinh{
+    display: grid;
+    grid-template-columns: repeat(3,56.5px);
+    grid-template-rows: repeat(5,30px);
+    
+}
