@@ -1,0 +1,356 @@
+* {box-sizing: border-box;}
+ 
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff;
+}
+
+
+ 
+.top {
+background-color: #e9e9e9;
+display: flex;
+margin-left: 50px;
+}
+ .top > div{
+    width: 100%;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+.top a {
+  float: left;
+  display: block;
+  color: rgb(17, 1, 1);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+ 
+.top input {
+  float: right;
+  padding: px;
+  margin-top: -5px;
+  margin-right: 90px;
+  border: none;
+  font-size: 15px;
+}
+
+.product{
+    display: flex;
+    margin-right: -300px;
+    justify-content: right;
+    
+}
+
+.top img{
+    display: flex;
+    float :none;
+    text-align: center;
+}
+
+.button1t{
+    display: flex;
+    margin-right: -305px;
+    justify-content: right;
+}
+.button1{
+    display: flex;
+    margin-right: 100px;
+    justify-content: right;
+}
+
+.headImg{
+    position: relative;
+    width: auto;
+}
+
+.addTextInImg{
+    position: absolute;
+    top: 145px;
+    left: 130px;
+}
+.addTextInImg1{
+    color: #323842;
+    font-weight: bold;
+    font-size: 60px;
+}
+.addTextInImg2{
+    color: black;
+    font-weight: calc();
+    font-size: 26px;
+}
+
+.thanhNgang2 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: 184px;
+}
+
+.btn{
+    margin-left: 40px;
+    margin-bottom: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+    background-color: #fff;
+    color: #459d7a;
+}
+
+.btn-primary0{
+    background-color: #459d7a;
+    color: #fff;
+    margin-left: 136px;
+    
+    justify-self: start;
+    
+}
+
+.btn :hover{
+    background-color: #459d7a;
+    color: #fff;
+}
+.btn-primary0 :hover{
+    background-color: #fff;
+    color: #459d7a;
+}
+
+
+
+/* #4a9c7c */
+.Body{ 
+    text-decoration: none;
+    color: #4a9c7c;
+    padding: 5px 10px;
+    border-radius: 2px;
+    position: absolute;
+    left: 570px;
+    top: 490px;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.textSeach{
+    border:none;
+    padding: 5px 10px;
+    border-radius: px;
+    position: absolute;
+    left: 930px;
+    top: 490px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-style: none;
+}
+hr{
+    position: absolute;
+    left: 508px;
+    top: 490px;
+}
+.sort{
+    border:none;
+    padding: 5px 10px;
+    border-radius: 2px;
+    position: absolute;
+    left: 1230px;
+    top: 490px;
+    font-size: 20px;
+    padding: 10px 20px; 
+}
+/* .Hang{
+    background-color: #fff;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+}
+.hang tr td{
+    position: relative;
+} */
+
+.grid-hang{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-left: 135px;
+    
+}
+
+.textProducts > div{
+    text-align: left;
+}
+.ProductTitle{
+    font-size: 20px;
+    color: black;
+}
+.labore{
+    font-size: 15px;
+    opacity: 0.5;
+}
+.tien1{
+    font-size: 30px;
+}
+.tien2{
+    font-size: 23px;
+    opacity: 0.5;
+    margin-top: 5px;
+}
+.imgXeDay{
+    margin-left: 220px;
+    margin-top: -40px;
+}
+.tien{
+    display: flex;
+    justify-self: center;
+    gap: 10px;
+}
+
+.thanhPagination {
+    width: 700px;
+    margin: 100px;
+    height: 50px;
+    text-align: center;
+  }
+  .pagination {
+    width: 700px;
+    margin-left: 550px;
+  }
+  .pagination a {
+    display: block;
+    color: black;
+    float: left;
+    padding: 10px 10px;
+    text-decoration: none;
+    transition: background-color .3s;
+  }
+   
+  .pagination a.active {
+      background-color: #4CAF50;
+      color: white;
+      width: 50px;
+      height: 50px;
+      border-radius: 25px;
+  }
+   
+  .pagination a:hover:not(.active) {
+    background-color: #ddd;
+  }
+
+/* Footer */
+.footer {
+    width: 100%;
+    display: flex;
+    background-color: #1d2128;
+    height: 436px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftFooter {
+    width: 40%;
+    margin-left: 128px;
+    
+}
+
+.leftFooter .information {
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftFooter .information div {
+    color: darkgrey;
+    font-size: 25px;
+    line-height: 2.5;
+}
+
+.leftFooter .information div div {
+    color: lightgrey;
+    font-size: 15px;
+}
+.language{
+    background-color: black;
+    border-color: #fff;
+    color: #fff;
+    height: 35px;
+    width: 130px;
+}
+.rightFooter {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 2;
+    width: 36%;
+    font-size: 30px;
+    text-align: left;
+    
+}
+
+
+.rightFooter div {
+    color: darkgrey;
+}
+
+
+.inputEmail{
+    background-color: black;
+    border-color: #fff;
+    color: #fff;
+    transform: scale(2);
+    margin-top: 20px;
+    margin-left: 125px;
+    padding: 5px 40px;
+    border-radius: 2px;
+    border: 1px solid #fff;
+}
+.subscibe{
+    text-decoration: none;
+    background-color: #4a9c7c;
+    color: #e9e9e9; 
+    transform: scale(1.6);
+    border-radius: 0 5px 5px 0;
+    border: none;
+    position: absolute;
+    margin-top: 19.86px;
+    margin-left: 17px;
+    font-size: 20px;
+    padding: 5px 1px;
+}
+
+.textEndFist{
+    font-size: 30px;
+}
+.textEndSecond{
+    font-size: 20px;
+}
+.TFIY{
+    margin-top: 20px;
+}
+.textEndFinal{
+    font-size: 15px;
+}
+.dot{
+    display: inline-block;
+    margin: 0 5px;
+}
+
+
+
+   
+
+
+
+
+
+
+
+
+ 
+
