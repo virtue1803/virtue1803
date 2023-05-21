@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/RegularExperession/css/main.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>ChecknTranform</title>
+</head>
+<body>
+    <div>
+        <input id="InputNumber" type="text">
+        <button onclick="checkNumber()">kiểm tra số</button>
+        <script>
+            function checkNumber(){
+                var inputn = document.getElementById("InputNumber").value;
+                if(!inputn.match(/^\d+$/)){
+                    alert("dữ liệu không phải là số");
+                    console.log("dữ liệu "+inputn+" không phải là số");
+                }else {
+                    alert("dữ liệu là số");
+                    console.log("dữ liệu "+inputn+" là số");
+                }
+            }
+        </script>
+
+        <input id="inputString" type="text">
+        <button onclick="checkString()">kiểm tra chữ</button>
+        <script>
+            function checkString(){
+                var inputstr = document.getElementById("inputString").value;
+                if(!inputstr.match(/^[a-zA-Z]+$/)){
+                    alert("dữ liệu không phải là chữ");
+                    console.log("dữ liệu "+ inputstr +" không phải là chữ: ");
+                }else {
+                    alert("dữ liệu là chữ");
+                    console.log("dữ liệu "+ inputstr + " là chữ");
+                }
+            }
+        </script>
+    </div>
+    <div>
+        <!-- <input id="SDT" type="text"> -->
+        các số cần biến đổi: 091-090-123, 090.123.456, 090 090 091: 
+        <button onclick="biendoi()">biến đổi số</button>
+        <script>
+            function biendoi(){
+                var array =  ["091-090-123", "090.123.456", "090 090 091"];
+                for(var i = 0; i < array.length; i++){
+                    array[i] = array[i].replace(/[-. ]/g,"");
+                }
+                console.log(array);
+                alert("các số đã được biến đổi: "+array);
+            }
+        </script>
+    </div>
+</body>
+</html>
