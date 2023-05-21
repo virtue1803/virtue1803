@@ -1,0 +1,311 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+/* menu */
+.menu{
+    width: 80px;
+    margin-top: 12px;
+    margin-left: 5px;
+}
+.nutHome{
+    margin-top: 35px;
+    margin-left: 10px;
+    
+}
+.MessageDetail{
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.calendar{
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.call{
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.user{
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.bottomMenu{
+    margin-top:  190px;
+}
+
+/* body */
+.meeting{
+    display: grid;
+    width: 1000px;
+    padding-right: 400px;
+    justify-items: center;
+    align-items: center;
+    grid-row-gap: 30px;
+}
+.row1St{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 650px;
+}
+
+.button12{
+    width: 90px;
+  height: 40px;
+  border-radius: 20px;
+  border: solid red;
+  background-color: white;
+  font-size: 25px;
+}
+.button12::before{
+    content: "•";
+    color: red;
+}
+.row2Nd{
+    display: flex;
+    justify-content: left;
+}
+.row2Nd >div{
+    margin-left: -10px;
+    margin: 10px;
+}
+.rectangle img{
+    width: 15px;
+    height: 15px;
+}
+.rectangle {
+    display: flex;
+    width: 86px;
+    height: 25px;
+    border-radius: 12.5px 12.5px;
+    background-color: #e04f72;
+    color: aliceblue;
+}
+.rectangle > div{
+    margin: 3px;
+}
+.rectangle > img{
+    margin: 6px;
+}
+
+
+
+.mainVideo{
+    width: auto;
+}
+.main{
+    position: relative;
+}
+.q{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 130px;
+    left: 200px;
+}
+.q1{
+    width: 160px;
+    height: 30px;
+    background-color: #757679;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.q1 .benVideo{
+    display: inline-block;
+    margin-top: 4px;
+}
+.dot {
+    width: 10px;
+    height: 10px;
+    margin-left: -13px;
+    margin-top: 8px;
+    border-radius: 5px;
+    background-color:#33d565;
+    position: absolute;
+}
+.q2{
+    margin-top: 15px;
+    margin-left: 350px;
+}
+
+.otherVideo{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 25px;
+    
+}
+.iconVideo{
+    
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 20px;
+    width: 1px;
+    margin-right: 510px;
+}
+.end-meeting{
+    background-color: #ee272a;
+    color: white;
+    border: none;
+    padding: 6px 35px;
+    
+    
+}
+
+/* right */
+.rightBody{
+    /* flex-direction: column; */
+    position: relative;
+    right:  400px;
+    width: 700px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 240px;
+
+    
+}
+.rightBody div div div{
+    display: flex;
+}
+
+
+
+.blackIcon{
+    width: 20px;
+    height: 20px;
+}
+.micOn ,.micOff{
+    height: fit-content;
+    
+}
+
+.cam_small{
+    height: fit-content;
+}
+
+.ParticipantsnAdd{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 240px;
+}
+.par4{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    
+}
+.titleParticipants{
+    font-size: 25px;
+    text-decoration: solid black;
+    text-size-adjust: 2px;
+}
+.t4{
+    width: 20px;
+    height: 20px;
+    border-radius: 25px;
+    background-color: #fdf2f4;
+    color: #ec86a0;
+    text-align: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+.add{
+    width: 60px;
+    height: 30px;
+    border: 2px solid #e55f81;
+    border-radius: 5px;
+    background-color: white;
+    color: #e55f81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add span:first-child {
+    font-size: 24px;
+    margin-right: 5px;
+}
+.peoplePar{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.peoplePar div{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 2px;
+    
+}
+
+.peoplePar div div div{
+    position: absolute;
+    left: 45px;
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(4, 10px);
+    grid-row-gap: 60px;
+    margin: 10px;
+}
+
+.mic1{
+    position: absolute;
+    left: 380px;
+    
+}
+.cam_small{
+    position: absolute;
+    left: 410px;
+}
+.add2{
+    width: 25px;
+    height: 10px;
+    position: absolute;
+    left: 430px;
+    margin-top: 5px;
+}
+.ava1323, .ava1324, .ava1325{
+    margin-top: 10px;
+}
+
+.chat{
+    position: absolute;
+    top: 300px;
+}
+.BenjaminChat div{
+    display: flex;
+    width: 20px;
+    height: 20px;
+}
+.chat div{
+    
+    font-size: 25px;
+    text-decoration: solid black;
+    text-size-adjust: 2px;
+}
+/* .DeborahChat{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 10px);
+    grid-row-gap: 10px;
+}
+
+.DeborahChatt{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 10px);
+    grid-column-gap: 10px; */
+}
+
+
+
+
+
