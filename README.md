@@ -1,7 +1,29 @@
 ![Rainbow virtue1803](assets/rainbow.svg)
 
-## <img src="assets/rainbow.svg" width="20" /> Hello, I'm <span style="color: #ff4500;">Nguyễn Đức Tài</span>!
-<!-- Change the color hex code (e.g., #ff4500) to any color you prefer -->
+## <img src="assets/rainbow.svg" width="20" /> Hello, I'm
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .rainbow-text {
+      font-family: Arial, sans-serif;
+      font-size: 40px;
+      font-weight: bold;
+      fill: url(#rainbow);
+      animation: rainbow 3s infinite;
+    }
+    @keyframes rainbow {
+      0% { fill: #ff0000; }
+      14% { fill: #ff7f00; }
+      28% { fill: #ffff00; }
+      42% { fill: #00ff00; }
+      57% { fill: #0000ff; }
+      71% { fill: #4b0082; }
+      85% { fill: #9400d3; }
+      100% { fill: #ff0000; }
+    }
+  </style>
+  <text x="10" y="50" class="rainbow-text">Nguyễn Đức Tài</text>
+</svg>
+<!-- Note: The rainbow animation above works in browsers but may not render in GitHub's Markdown. For full rainbow effect on all text, render this Markdown in a custom HTML page with CSS animations. -->
 
 I'm a final-year student at **Industrial University of Ho Chi Minh City (IUH)**, born on **November 18, 2003**. Passionate about building scalable backend services, modern UI, and mastering software testing, I'm ready to code a colorful future! <img src="assets/rainbow.svg" width="16" />
 
