@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  📧 nguyenductai505@gmail.com • 📱 +84 917 276 167  
-  🌍 <a href="https://github.com/virtue1803">GitHub</a> • <a href="https://www.facebook.com/jolhonson">Facebook</a>
+  <img src="assets/rainbow.svg" width="18" /> nguyenductai505@gmail.com • <img src="assets/rainbow.svg" width="18" /> +84 917 276 167  
+  <img src="assets/rainbow.svg" width="18" /> <a href="https://github.com/virtue1803">GitHub</a> • <img src="assets/rainbow.svg" width="18" /> <a href="https://www.facebook.com/jolhonson">Facebook</a>
 </p>
 
 ---
@@ -24,27 +24,27 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 ## <img src="assets/rainbow.svg" width="20" /> Skills
 
-### 🖥 Programming & Frameworks
+### <img src="assets/rainbow.svg" width="20" /> Programming & Frameworks
 - Java Spring Boot (backend)
 - Node.js (simple API/server)
 - ReactJS (web UI)
 - React Native (mobile app)
 
-### 🌐 Web Development
+### <img src="assets/rainbow.svg" width="20" /> Web Development
 - HTML & CSS
 - jQuery (basic scripting)
 - Bootstrap (entry-level UI)
 
-### 🗄️ Database
+### <img src="assets/rainbow.svg" width="20" /> Database
 - MySQL and basic DB management
 
-### 🧪 Software Testing
+### <img src="assets/rainbow.svg" width="20" /> Software Testing
 - Functional testing & test case writing
 
-### ☁️ Cloud & Deployment
+### <img src="assets/rainbow.svg" width="20" /> Cloud & Deployment
 - Familiar with DigitalOcean and basic AWS services
 
-### 🧠 Life Skills
+### <img src="assets/rainbow.svg" width="20" /> Life Skills
 - Time management, teamwork, adaptability
 - Basic English listening & speaking
 
@@ -52,7 +52,7 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 ## <img src="assets/rainbow.svg" width="20" /> Experience
 
-### 🧳 TravelFull – Smart Tour Booking System  
+### <img src="assets/rainbow.svg" width="20" /> TravelFull – Smart Tour Booking System  
 <em>Graduation Project (01/2025 – 05/2025) • IUH</em>
 - Built backend with **Node.js**, used **MySQL** for data
 - Developed UI using **ReactJS** (web) & **React Native** (mobile)
@@ -60,7 +60,7 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 - Implemented **PayPal payments**, tested features thoroughly
 - Deployed using **Docker**, hosted on **AWS & Digital Ocean**
 
-### 🚗 EV Revenue Forecasting with ARIMA  
+### <img src="assets/rainbow.svg" width="20" /> EV Revenue Forecasting with ARIMA  
 <em>Research Project (08/2024 – 12/2024) • IUH</em>
 - Processed dataset (12k+ rows), cleaned and transformed
 - Modeled time-series with **ARIMA**, evaluated predictions
@@ -71,7 +71,7 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 ## <img src="assets/rainbow.svg" width="20" /> Education
 
-🎓 **Industrial University of Ho Chi Minh City (IUH)**  
+<img src="assets/rainbow.svg" width="20" /> **Industrial University of Ho Chi Minh City (IUH)**  
 *Senior student majoring in Software Engineering*
 
 ---
@@ -87,9 +87,9 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 ## <img src="assets/rainbow.svg" width="20" /> Contact
 
-- 📧 Email: [nguyenductai505@gmail.com](mailto:nguyenductai505@gmail.com)  
-- 🌐 GitHub: [github.com/virtue1803](https://github.com/virtue1803)  
-- 📘 Facebook: [facebook.com/jolhonson](https://facebook.com/jolhonson)
+- <img src="assets/rainbow.svg" width="20" /> Email: [nguyenductai505@gmail.com](mailto:nguyenductai505@gmail.com)  
+- <img src="assets/rainbow.svg" width="20" /> GitHub: [github.com/virtue1803](https://github.com/virtue1803)  
+- <img src="assets/rainbow.svg" width="20" /> Facebook: [facebook.com/jolhonson](https://facebook.com/jolhonson)
 
 ---
 
