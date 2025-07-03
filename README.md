@@ -4,84 +4,94 @@
 
 <h1 align="center">🌈 NGUYỄN ĐỨC TÀI</h1>
 <p align="center">
+  <img src="assets/rainbow.svg" width="18" /> <strong>Final-year Software Engineering Student</strong>  
+  <img src="assets/rainbow.svg" width="18" /> <strong>Industrial University of Ho Chi Minh City</strong>
+</p>
+
+<p align="center">
   📧 nguyenductai505@gmail.com • 📱 +84 917 276 167  
   🌍 <a href="https://github.com/virtue1803">GitHub</a> • <a href="https://www.facebook.com/jolhonson">Facebook</a>
 </p>
 
 ---
 
-## 🧑‍💼 Summary
+## <img src="assets/rainbow.svg" width="20" /> Summary
 
-Hi! I’m **Nguyễn Đức Tài**, a final-year student at **Industrial University of Ho Chi Minh City (IUH)**, majoring in **Software Engineering**.  
-With nearly 1 year of hands-on experience, I specialize in **backend development, frontend UI building, mobile app development**, and **software testing**. I'm passionate about learning new technologies and applying them to real-world solutions.
+Hi! I’m **Nguyễn Đức Tài**, a passionate final-year student majoring in **Software Engineering**.  
+With nearly **1 year of experience**, I build scalable backend services, create modern UI for web and mobile apps, and apply software testing and data forecasting in real-world projects.
 
 ---
 
-## 💡 Skills
+## <img src="assets/rainbow.svg" width="20" /> Skills
 
 ### 🖥 Programming & Frameworks
-- 🔹 Java Spring Boot (basic backend)
-- 🔹 Node.js (simple server-side)
-- 🔹 ReactJS (web UI)
-- 🔹 React Native (intro mobile app)
+- Java Spring Boot (backend)
+- Node.js (simple API/server)
+- ReactJS (web UI)
+- React Native (mobile app)
 
 ### 🌐 Web Development
-- 🔸 HTML & CSS (basic layout)
-- 🔸 jQuery (basic scripting)
-- 🔸 Bootstrap (entry-level frontend design)
+- HTML & CSS
+- jQuery (basic scripting)
+- Bootstrap (entry-level UI)
 
 ### 🗄️ Database
-- 🔹 Basic SQL and database design using MySQL
+- MySQL and basic DB management
 
 ### 🧪 Software Testing
-- 🔸 Functional testing
-- 🔸 Test case creation
+- Functional testing & test case writing
 
 ### 🧠 Life Skills
-- ⏱ Time management
-- 🤝 Team collaboration
-- 🧩 Adaptability
-- 🗣 Communication (basic English speaking & listening)
+- Time management, teamwork, adaptability
+- Basic English listening & speaking
 
 ---
 
-## 💼 Experience
+## <img src="assets/rainbow.svg" width="20" /> Experience
 
-### 🎓 SOFTWARE ENGINEERING GRADUATION PROJECT  
-**TravelFull – Smart Tour Booking System**  
-*01/2025 – 05/2025 | Industrial University of Ho Chi Minh City*  
-- Developed backend with **NodeJS** and **MySQL**
-- Created responsive UI for **ReactJS (Web)** and **React Native (Mobile)**
-- Integrated **GPT-3.5 Turbo** for chatbot and tour recommendations
-- Implemented **PayPal payment gateway**
-- Designed and tested features using **Docker**, **AWS**, and **Digital Ocean**
+### 🧳 TravelFull – Smart Tour Booking System  
+<em>Graduation Project (01/2025 – 05/2025) • IUH</em>
+- Built backend with **Node.js**, used **MySQL** for data
+- Developed UI using **ReactJS** (web) & **React Native** (mobile)
+- Integrated **GPT-3.5 Turbo** for chatbot/tour suggestion
+- Implemented **PayPal payments**, tested features thoroughly
+- Deployed using **Docker**, hosted on **AWS & Digital Ocean**
 
-### 📈 SOFTWARE ENGINEERING RESEARCHER  
-**EV Revenue Forecasting using ARIMA**  
-*08/2024 – 12/2024 | IUH*  
-- Cleaned and processed 12,654-row dataset
-- Applied **ARIMA model** and performed time series forecasting
-- Visualized trends and ensured stationarity via **ADF test**
-- Evaluated performance via residual analysis
-- Documented results and proposed improvements with the team
+### 🚗 EV Revenue Forecasting with ARIMA  
+<em>Research Project (08/2024 – 12/2024) • IUH</em>
+- Processed dataset (12k+ rows), cleaned and transformed
+- Modeled time-series with **ARIMA**, evaluated predictions
+- Visualized trends using **ADF test**, ACF/PACF
+- Documented findings, proposed future improvements
 
 ---
 
-## 🎓 Education
+## <img src="assets/rainbow.svg" width="20" /> Education
 
-**Industrial University of Ho Chi Minh City**  
-*Senior student, Software Engineering*
+🎓 **Industrial University of Ho Chi Minh City (IUH)**  
+*Senior student majoring in Software Engineering*
 
 ---
 
-## 📬 Contact
+## <img src="assets/rainbow.svg" width="20" /> GitHub Stats
 
-- 📧 Email: nguyenductai505@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=virtue1803&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtue1803&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## <img src="assets/rainbow.svg" width="20" /> Contact
+
+- 📧 Email: [nguyenductai505@gmail.com](mailto:nguyenductai505@gmail.com)  
 - 🌐 GitHub: [github.com/virtue1803](https://github.com/virtue1803)  
-- 📘 Facebook: [facebook.com/jolhonson](https://www.facebook.com/jolhonson)
+- 📘 Facebook: [facebook.com/jolhonson](https://facebook.com/jolhonson)
 
 ---
 
 <p align="center">
-  <img src="assets/rainbow.svg" width="20"/> <strong>Let’s code a colorful future together!</strong> <img src="assets/rainbow.svg" width="20"/>
+  <img src="assets/rainbow.svg" width="20" />
+  <strong>Let’s code a colorful future together!</strong>
+  <img src="assets/rainbow.svg" width="20" />
 </p>
