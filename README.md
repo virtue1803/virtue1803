@@ -2,7 +2,7 @@
   <img src="assets/rainbow.svg" width="100" alt="Rainbow Icon"/>
 </p>
 
-<h1 src="assets/rainbow.svg" align="center">🌈 NGUYỄN ĐỨC TÀI</h1>
+<h1 align="center">🌈 NGUYỄN ĐỨC TÀI</h1>
 <p align="center">
   <img src="assets/rainbow.svg" width="18" /> <strong>Final-year Software Engineering Student</strong>  
   <img src="assets/rainbow.svg" width="18" /> <strong>Industrial University of Ho Chi Minh City</strong>
@@ -40,6 +40,9 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 ### 🧪 Software Testing
 - Functional testing & test case writing
+
+### ☁️ Cloud & Deployment
+- Familiar with DigitalOcean and basic AWS services
 
 ### 🧠 Life Skills
 - Time management, teamwork, adaptability
