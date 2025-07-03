@@ -2,7 +2,8 @@
   <img src="assets/rainbow.svg" width="100" alt="Rainbow Icon"/>
 </p>
 
-<h1 src="assets/rainbow.svg" align="center">🌈 NGUYỄN ĐỨC TÀI</h1>
+<h1 align="center"><img src="assets/rainbow.svg" width="20" /> <span style="color: #ff4500;">NGUYỄN ĐỨC TÀI</span> <img src="assets/rainbow.svg" width="20" /></h1>
+<!-- Change the color hex code (e.g., #ff4500) to any color you prefer -->
 <p align="center">
   <img src="assets/rainbow.svg" width="18" /> <strong>Final-year Software Engineering Student</strong>  
   <img src="assets/rainbow.svg" width="18" /> <strong>Industrial University of Ho Chi Minh City</strong>
@@ -25,28 +26,28 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 ## <img src="assets/rainbow.svg" width="20" /> Skills
 
 ### <img src="assets/rainbow.svg" width="20" /> Programming & Frameworks
-- Java Spring Boot (backend)
-- Node.js (simple API/server)
-- ReactJS (web UI)
-- React Native (mobile app)
+- <img src="assets/rainbow.svg" width="16" /> Java Spring Boot (backend)
+- <img src="assets/rainbow.svg" width="16" /> Node.js (simple API/server)
+- <img src="assets/rainbow.svg" width="16" /> ReactJS (web UI)
+- <img src="assets/rainbow.svg" width="16" /> React Native (mobile app)
 
 ### <img src="assets/rainbow.svg" width="20" /> Web Development
-- HTML & CSS
-- jQuery (basic scripting)
-- Bootstrap (entry-level UI)
+- <img src="assets/rainbow.svg" width="16" /> HTML & CSS
+- <img src="assets/rainbow.svg" width="16" /> jQuery (basic scripting)
+- <img src="assets/rainbow.svg" width="16" /> Bootstrap (entry-level UI)
 
 ### <img src="assets/rainbow.svg" width="20" /> Database
-- MySQL and basic DB management
+- <img src="assets/rainbow.svg" width="16" /> MySQL and basic DB management
 
 ### <img src="assets/rainbow.svg" width="20" /> Software Testing
-- Functional testing & test case writing
+- <img src="assets/rainbow.svg" width="16" /> Functional testing & test case writing
 
 ### <img src="assets/rainbow.svg" width="20" /> Cloud & Deployment
-- Familiar with DigitalOcean and basic AWS services
+- <img src="assets/rainbow.svg" width="16" /> Familiar with DigitalOcean and basic AWS services
 
 ### <img src="assets/rainbow.svg" width="20" /> Life Skills
-- Time management, teamwork, adaptability
-- Basic English listening & speaking
+- <img src="assets/rainbow.svg" width="16" /> Time management, teamwork, adaptability
+- <img src="assets/rainbow.svg" width="16" /> Basic English listening & speaking
 
 ---
 
@@ -54,18 +55,18 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 ### <img src="assets/rainbow.svg" width="20" /> TravelFull – Smart Tour Booking System  
 <em>Graduation Project (01/2025 – 05/2025) • IUH</em>
-- Built backend with **Node.js**, used **MySQL** for data
-- Developed UI using **ReactJS** (web) & **React Native** (mobile)
-- Integrated **GPT-3.5 Turbo** for chatbot/tour suggestion
-- Implemented **PayPal payments**, tested features thoroughly
-- Deployed using **Docker**, hosted on **AWS & Digital Ocean**
+- <img src="assets/rainbow.svg" width="16" /> Built backend with **Node.js**, used **MySQL** for data
+- <img src="assets/rainbow.svg" width="16" /> Developed UI using **ReactJS** (web) & **React Native** (mobile)
+- <img src="assets/rainbow.svg" width="16" /> Integrated **GPT-3.5 Turbo** for chatbot/tour suggestion
+- <img src="assets/rainbow.svg" width="16" /> Implemented **PayPal payments**, tested features thoroughly
+- <img src="assets/rainbow.svg" width="16" /> Deployed using **Docker**, hosted on **AWS & Digital Ocean**
 
 ### <img src="assets/rainbow.svg" width="20" /> EV Revenue Forecasting with ARIMA  
 <em>Research Project (08/2024 – 12/2024) • IUH</em>
-- Processed dataset (12k+ rows), cleaned and transformed
-- Modeled time-series with **ARIMA**, evaluated predictions
-- Visualized trends using **ADF test**, ACF/PACF
-- Documented findings, proposed future improvements
+- <img src="assets/rainbow.svg" width="16" /> Processed dataset (12k+ rows), cleaned and transformed
+- <img src="assets/rainbow.svg" width="16" /> Modeled time-series with **ARIMA**, evaluated predictions
+- <img src="assets/rainbow.svg" width="16" /> Visualized trends using **ADF test**, ACF/PACF
+- <img src="assets/rainbow.svg" width="16" /> Documented findings, proposed future improvements
 
 ---
 
@@ -80,6 +81,7 @@ With nearly **1 year of experience**, I build scalable backend services, create 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=virtue1803&show_icons=true&theme=radical" height="160" />
+  <img src="assets/rainbow.svg" width="16" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtue1803&layout=compact&theme=radical" height="160" />
 </p>
 
