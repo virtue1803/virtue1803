@@ -23,7 +23,7 @@ Here’s what I work with to bring ideas to life:
 
 ## 📊 GitHub Stats
 
-![Tài's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virtue1803&show_icons=true&theme=radical)
+![Tài's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virtue1803&show_icons=true&theme=radical)\---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virtue1803&layout=compact&theme=radical)\---
 
