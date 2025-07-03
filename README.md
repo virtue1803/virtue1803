@@ -40,9 +40,9 @@ Here’s what I work with to bring ideas to life:
 
 ## <img src="assets/rainbow.svg" width="20" /> GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virtue1803&show_icons=true&title_color=ff0000&text_color=ffa500&icon_color=ffff00&bg_color=000000&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=virtue1803&show_icons=true&theme=radical" height="160" />
   <img src="assets/rainbow.svg" width="16" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtue1803&layout=compact&title_color=00ff00&text_color=0000ff&bg_color=000000&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtue1803&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
