@@ -1,0 +1,22 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .rainbow-text {
+      font-family: Arial, sans-serif;
+      font-size: 40px;
+      font-weight: bold;
+      fill: url(#rainbow);
+      animation: rainbow 3s infinite;
+    }
+    @keyframes rainbow {
+      0% { fill: #ff0000; }
+      14% { fill: #ff7f00; }
+      28% { fill: #ffff00; }
+      42% { fill: #00ff00; }
+      57% { fill: #0000ff; }
+      71% { fill: #4b0082; }
+      85% { fill: #9400d3; }
+      100% { fill: #ff0000; }
+    }
+  </style>
+  <text x="10" y="60" class="rainbow-text">virtue1803</text>
+</svg>
